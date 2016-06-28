@@ -1,8 +1,6 @@
-# VectorPaint
+# VectorPaint: 
 A simple prototype of drawing application
 
-
-# CryptTest v1.0
 
 ------------------------------------ 
         (Spanish / Español)* 
