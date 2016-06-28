@@ -39,4 +39,4 @@ It is quite intuitive and simple. It is a prototype for what it is: a simple dra
 
 Example interface:
 
-!Simple reference](help/info_vectorpaint_en.png)
+![Simple reference](help/info_vectorpaint_en.png)
